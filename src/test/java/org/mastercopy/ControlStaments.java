@@ -11,12 +11,25 @@ public class ControlStaments {
 	else {
 	System.out.println("invalid employee id");	
 	}
-	else {
-		System.out.println("invalid employee id");	
-		}
-	else {
-		System.out.println("invalid employee id");	
-		}
+	System.out.println();
+	
+	System.out.println();
+	System.out.println();
+	System.out.println();
 	}
-}
+	
+	private void emp() {
+		System.out.println();
+	}
+
+	}
+	
+	
+	
+	
+	
+
 		
+
+
+    
